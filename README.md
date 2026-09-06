@@ -115,8 +115,8 @@
 ### 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digonfly&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=12&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digonfly&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=12&background=0d1117" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=digonfly&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=12&bg_color=0d1117" width="49%" alt="Diganto GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=digonfly&theme=tokyonight&hide_border=false&border_color=00f5d4&border_radius=12&background=0d1117" width="49%" alt="Diganto GitHub Streak" />
 </div>
 
 ---
