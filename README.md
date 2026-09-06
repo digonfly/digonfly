@@ -1,93 +1,26 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER & ANIMATED TYPING -->
 <div align="center">
-  <h1>⚡ Diganto Rabha</h1>
-  <p><b>Technology Architect | Full-Stack & Mobile Developer | Co-Founder</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f5d4,100:7928ca&height=220&section=header&text=DIGANTO%20RABHA&fontSize=52&fontAlignY=38&desc=TECHNOLOGY%20ARCHITECT%20%7C%20FULL-STACK%20ENGINEER&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&height=40&lines=Building+High-Performance+Distributed+Systems;Full-Stack+Architect+%7C+Next.js+%2B+Python+%2B+Flutter;Turning+Complex+Logic+Into+Clean+Architecture" alt="Typing SVG" />
+  </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=digonfly&label=PROFILE+VIEWS&style=flat-square&color=00d2ff" alt="Views" />
-    <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-00f5d4?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Architecture-7928ca?style=flat-square" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=digonfly&label=TELEMETRY+VIEWS&style=for-the-badge&color=00f5d4" />
+    <img src="https://img.shields.io/badge/System-Nominal%20%7C%20Online-00d2ff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Security-Encrypted-7928ca?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 🛠️ Core Tech Stack & Systems
+### ⚡ Neural Pipeline & Core Architecture
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,express,py,mongodb,postgres,ts,js,html,css,git,github,figma&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 Real-Time Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digonfly&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d2ff&border_radius=8" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digonfly&theme=tokyonight&hide_border=false&border_color=00d2ff&border_radius=8" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digonfly&layout=compact&theme=tokyonight&hide_border=false&border_color=00d2ff&border_radius=8" width="60%" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 Key Projects & Platforms
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>JobSetuHub</b><br/>
-      <i>Next.js • Node.js • Automated Pipelines</i><br/><br/>
-      Employment portal aggregating real-time updates and notifications.<br/><br/>
-      <a href="https://github.com/digonfly">💻 Code</a>
-    </td>
-    <td width="50%" align="center">
-      <b>NirmanMitra</b><br/>
-      <i>Flutter • Python • Cloud APIs</i><br/><br/>
-      Procurement & contractor marketplace platform.<br/><br/>
-      <a href="https://github.com/digonfly">💻 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <b>CryptoNewsHub</b><br/>
-      <i>Next.js • Vercel • Web3 Analytics</i><br/><br/>
-      Digital media portal tracking crypto and fintech telemetry.<br/><br/>
-      <a href="https://github.com/digonfly">💻 Code</a>
-    </td>
-    <td width="50%" align="center">
-      <b>Rabha Tech Labs</b><br/>
-      <i>Full-Stack Development • Architecture</i><br/><br/>
-      Scalable software products, APIs & lead systems.<br/><br/>
-      <a href="https://github.com/digonfly">💻 Code</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/digonfly"><img src="https://img.shields.io/badge/GitHub-digonfly-181717?style=flat-square&logo=github" /></a>
-  <a href="https://www.instagram.com/digantorabha7399"><img src="https://img.shields.io/badge/Instagram-@digantorabha7399-E4405F?style=flat-square&logo=instagram" /></a>
-</p>## Hi there 👋
-
-<!--
-**digonfly/digonfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "operator": "Diganto Rabha",
+  "role": "Technology Architect & Co-Founder",
+  "core_focus": ["Full-Stack Engineering", "Mobile Architecture", "Distributed Systems"],
+  "status": "Engineering Next-Gen Platforms"
+}
