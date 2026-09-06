@@ -1,13 +1,16 @@
 <div align="center">
 
+<!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,40:00f5d4,80:00b4d8,100:7928ca&height=250&section=header&text=DIGANTO%20RABHA&fontSize=50&fontAlignY=38&desc=TURNING%20IDEAS%20INTO%20REALITY%20WITH%20AI&descFontSize=16&descAlignY=62&fontColor=ffffff" width="100%" />
 
+<!-- LIVE TYPING -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Building+Websites+%26+Apps+Using+AI;Exploring+New+Tools+%26+Creative+Experiments;Not+a+coder%2C+just+a+creator;Turning+ambitious+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=digonfly&label=PROFILE+VIEWS&style=for-the-badge&color=00f5d4" />
   <img src="https://img.shields.io/badge/MODE-AI_CREATOR-00d2ff?style=for-the-badge" />
@@ -22,86 +25,22 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <blockquote>
         <b>"Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality."</b>
       </blockquote>
       <ul>
-        <li>🚀 <b>What I Do:</b> Build functional websites, mobile apps, and MVPs using modern AI workflows.</li>
-        <li>🛠️ <b>Approach:</b> Rapid prototyping, smart automations, and turning raw ideas into working digital products.</li>
-        <li>🧪 <b>Focus:</b> Continuously experimenting with new tools, prompts, and generative models.</li>
-        <li>🎯 <b>Clearance:</b> Verified AI Creator & Project Architect.</li>
+        <li>🚀 <b>What I Do:</b> Build websites, apps, and MVPs using modern AI workflows.</li>
+        <li>🛠️ <b>Approach:</b> Rapid prototyping, smart automations, and turning raw ideas into working products.</li>
+        <li>🧪 <b>Focus:</b> Testing experimental tools, prompts, and generative models.</li>
+        <li>🎯 <b>Clearance:</b> Verified AI Creator & Experimenter.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <svg width="220" height="280" viewBox="0 0 220 280" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#0d1117" />
-            <stop offset="50%" stop-color="#161b22" />
-            <stop offset="100%" stop-color="#05070a" />
-          </linearGradient>
-          <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#00f5d4" />
-            <stop offset="100%" stop-color="#7928ca" />
-          </linearGradient>
-          <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-            <feGaussianBlur stdDeviation="3" result="blur" />
-            <feComposite in="SourceGraphic" in2="blur" operator="over" />
-          </filter>
-        </defs>
-        <style>
-          @keyframes swing {
-            0% { transform: rotate(-5deg); }
-            50% { transform: rotate(5deg); }
-            100% { transform: rotate(-5deg); }
-          }
-          .hanging-group {
-            transform-origin: 110px 0px;
-            animation: swing 4s ease-in-out infinite;
-          }
-        </style>
-        <g class="hanging-group">
-          <line x1="110" y1="0" x2="110" y2="40" stroke="#00f5d4" stroke-width="2.5" stroke-dasharray="4,2" />
-          <rect x="100" y="38" width="20" height="12" rx="3" fill="#30363d" stroke="#00f5d4" stroke-width="1.5" />
-          <circle cx="110" cy="44" r="2.5" fill="#00f5d4" />
-          <rect x="25" y="50" width="170" height="215" rx="14" fill="url(#cardGrad)" stroke="url(#neonGlow)" stroke-width="2" filter="url(#glow)" />
-          <rect x="92" y="58" width="36" height="5" rx="2.5" fill="#0d1117" stroke="#30363d" stroke-width="1" />
-          <circle cx="110" cy="105" r="30" fill="#161b22" stroke="#00f5d4" stroke-width="2" />
-          <text x="110" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" fill="#00f5d4" text-anchor="middle">⚡</text>
-          <text x="110" y="152" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">DIGANTO RABHA</text>
-          <text x="110" y="168" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#00f5d4" letter-spacing="1" text-anchor="middle">AI CREATOR & BUILDER</text>
-          <text x="110" y="184" font-family="'Segoe UI', Roboto, sans-serif" font-size="8" fill="#8b949e" letter-spacing="0.5" text-anchor="middle">ID: DGF-9082-AI</text>
-          <g transform="translate(45, 198)" fill="#00f5d4">
-            <rect x="0" y="0" width="3" height="22" />
-            <rect x="5" y="0" width="1.5" height="22" />
-            <rect x="9" y="0" width="4" height="22" />
-            <rect x="16" y="0" width="1.5" height="22" />
-            <rect x="20" y="0" width="3" height="22" />
-            <rect x="26" y="0" width="1.5" height="22" />
-            <rect x="30" y="0" width="5" height="22" />
-            <rect x="38" y="0" width="2" height="22" />
-            <rect x="43" y="0" width="1.5" height="22" />
-            <rect x="47" y="0" width="4" height="22" />
-            <rect x="54" y="0" width="2" height="22" />
-            <rect x="59" y="0" width="1.5" height="22" />
-            <rect x="63" y="0" width="5" height="22" />
-            <rect x="71" y="0" width="1.5" height="22" />
-            <rect x="75" y="0" width="3.5" height="22" />
-            <rect x="81" y="0" width="2" height="22" />
-            <rect x="86" y="0" width="4" height="22" />
-            <rect x="93" y="0" width="1.5" height="22" />
-            <rect x="97" y="0" width="3" height="22" />
-            <rect x="103" y="0" width="2" height="22" />
-            <rect x="108" y="0" width="4" height="22" />
-            <rect x="115" y="0" width="1.5" height="22" />
-            <rect x="119" y="0" width="3" height="22" />
-            <rect x="125" y="0" width="2" height="22" />
-          </g>
-          <rect x="55" y="230" width="110" height="18" rx="9" fill="#00f5d4" fill-opacity="0.1" stroke="#00f5d4" stroke-width="1" />
-          <text x="110" y="242" font-family="'Segoe UI', Roboto, sans-serif" font-size="8" font-weight="bold" fill="#00f5d4" text-anchor="middle">VERIFIED EXPERIMENTER</text>
-        </g>
-      </svg>
+    <td width="40%" align="center" valign="middle">
+      <!-- DYNAMIC ACCESS CARD -->
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:05070a&height=220&width=280&stroke=00f5d4&strokeWidth=2&borderRadius=16&text=%E2%9A%A1%20DIGANTO%20RABHA&fontSize=18&fontColor=ffffff&fontAlignY=42&desc=ID%3A%20DGF-9082-AI%20%7C%20AI%20CREATOR&descFontSize=11&descColor=00f5d4&descAlignY=64" />
+      <br/>
+      <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_VERIFIED-00f5d4?style=flat-square" />
     </td>
   </tr>
 </table>
