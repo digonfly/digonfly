@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/digonfly/digonfly/main/id-card.svg" width="220" alt="Diganto Rabha ID Badge" />
+      <img src="./id-card.svg" width="220" alt="Diganto Rabha ID Badge" />
     </td>
   </tr>
 </table>
