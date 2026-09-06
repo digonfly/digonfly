@@ -1,13 +1,16 @@
 <div align="center">
 
+<!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,40:00f5d4,80:00b4d8,100:7928ca&height=250&section=header&text=DIGANTO%20RABHA&fontSize=50&fontAlignY=38&desc=TURNING%20IDEAS%20INTO%20REALITY%20WITH%20AI&descFontSize=16&descAlignY=62&fontColor=ffffff" width="100%" />
 
+<!-- LIVE TYPING -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Building+Websites+%26+Apps+Using+AI;Exploring+New+Tools+%26+Creative+Experiments;Not+a+coder%2C+just+a+creator;Turning+ambitious+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=digonfly&label=PROFILE+VIEWS&style=for-the-badge&color=00f5d4" />
   <img src="https://img.shields.io/badge/MODE-AI_CREATOR-00d2ff?style=for-the-badge" />
@@ -22,7 +25,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <blockquote>
         <b>"Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality."</b>
       </blockquote>
@@ -32,8 +35,13 @@
         <li>🧪 <b>Focus:</b> Continuously experimenting with new tools, prompts, and generative models.</li>
         <li>🎯 <b>Clearance:</b> Verified AI Creator & Experimenter.</li>
       </ul>
+      <p align="left">
+        <b>Real Avatar:</b><br/>
+        <img src="WhatsApp%20Image%202026-09-06%20at%201.06.02%20PM.jpeg" width="70" height="70" style="border-radius: 50%; border: 2px solid #00f5d4;" alt="Diganto Rabha Photo" />
+      </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="45%" align="center" valign="middle">
+      <!-- SWINGING CYBERPUNK ID BADGE -->
       <img src="./id-card.svg" width="220" alt="Diganto Rabha ID Badge" />
     </td>
   </tr>
