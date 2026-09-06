@@ -20,14 +20,10 @@
 
 ### 💡 About My Workflow
 
-```json
-{
-  "creator": "Diganto Rabha",
-  "identity": "AI-Powered Builder & Experimenter",
-  "philosophy": "Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality.",
-  "what_i_do": [
-    "Rapidly prototyping apps & web experiences using modern AI",
-    "Connecting no-code platforms, APIs, and smart automations",
-    "Testing experimental tech and shipping functional projects"
-  ]
-}
+### 💡 About Me
+
+> **"Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality."**
+
+* 🚀 **What I Do:** Build functional websites, apps, and MVPs using modern AI workflows.
+* 🛠️ **Approach:** Rapid prototyping, smart automations, and turning raw ideas into working digital products.
+* 🧪 **Focus:** Continuously experimenting with new tools, prompts, and generative tech.
