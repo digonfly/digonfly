@@ -25,7 +25,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <blockquote>
         <b>"Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality."</b>
       </blockquote>
@@ -35,13 +35,9 @@
         <li>🧪 <b>Focus:</b> Continuously experimenting with new tools, prompts, and generative models.</li>
         <li>🎯 <b>Clearance:</b> Verified AI Creator & Experimenter.</li>
       </ul>
-      <p align="left">
-        <b>Real Avatar:</b><br/>
-        <img src="WhatsApp%20Image%202026-09-06%20at%201.06.02%20PM.jpeg" width="70" height="70" style="border-radius: 50%; border: 2px solid #00f5d4;" alt="Diganto Rabha Photo" />
-      </p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- SWINGING CYBERPUNK ID BADGE -->
+    <td width="40%" align="center" valign="middle">
+      <!-- HANGING & SWINGING ID BADGE -->
       <img src="./id-card.svg" width="220" alt="Diganto Rabha ID Badge" />
     </td>
   </tr>
