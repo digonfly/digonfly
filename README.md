@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,40:00f5d4,80:00b4d8,100:7928ca&height=250&section=header&text=DIGANTO%20RABHA&fontSize=50&fontAlignY=38&desc=TURNING%20IDEAS%20INTO%20REALITY%20WITH%20AI&descFontSize=16&descAlignY=62&fontColor=ffffff" width="100%" />
 
-<!-- LIVE TYPING -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Building+Websites+%26+Apps+Using+AI;Exploring+New+Tools+%26+Creative+Experiments;Not+a+coder%2C+just+a+creator;Turning+ambitious+ideas+into+working+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=digonfly&label=PROFILE+VIEWS&style=for-the-badge&color=00f5d4" />
   <img src="https://img.shields.io/badge/MODE-AI_CREATOR-00d2ff?style=for-the-badge" />
@@ -30,17 +27,14 @@
         <b>"Using AI to build websites, apps & cool experiments. Not a coder, just exploring new tools & turning ideas into reality."</b>
       </blockquote>
       <ul>
-        <li>🚀 <b>What I Do:</b> Build websites, apps, and MVPs using modern AI workflows.</li>
-        <li>🛠️ <b>Approach:</b> Rapid prototyping, smart automations, and turning raw ideas into working products.</li>
-        <li>🧪 <b>Focus:</b> Testing experimental tools, prompts, and generative models.</li>
+        <li>🚀 <b>What I Do:</b> Build functional websites, mobile apps, and MVPs using modern AI workflows.</li>
+        <li>🛠️ <b>Approach:</b> Rapid prototyping, smart automations, and turning raw ideas into working digital products.</li>
+        <li>🧪 <b>Focus:</b> Continuously experimenting with new tools, prompts, and generative models.</li>
         <li>🎯 <b>Clearance:</b> Verified AI Creator & Experimenter.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- DYNAMIC ACCESS CARD -->
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:05070a&height=220&width=280&stroke=00f5d4&strokeWidth=2&borderRadius=16&text=%E2%9A%A1%20DIGANTO%20RABHA&fontSize=18&fontColor=ffffff&fontAlignY=42&desc=ID%3A%20DGF-9082-AI%20%7C%20AI%20CREATOR&descFontSize=11&descColor=00f5d4&descAlignY=64" />
-      <br/>
-      <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_VERIFIED-00f5d4?style=flat-square" />
+      <img src="https://raw.githubusercontent.com/digonfly/digonfly/main/id-card.svg" width="220" alt="Diganto Rabha ID Badge" />
     </td>
   </tr>
 </table>
