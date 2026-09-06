@@ -1,17 +1,20 @@
-<svg width="240" height="340" viewBox="0 0 240 340" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
+<svg width="240" height="340" viewBox="0 0 240 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f19"/>
       <stop offset="40%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </linearGradient>
 
+    <!-- Holographic Neon Border -->
     <linearGradient id="holoBorder" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00f5d4"/>
       <stop offset="50%" stop-color="#3b82f6"/>
       <stop offset="100%" stop-color="#7928ca"/>
     </linearGradient>
 
+    <!-- Lanyard Strap Gradient -->
     <linearGradient id="strapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f5d4"/>
       <stop offset="100%" stop-color="#059669"/>
@@ -38,33 +41,45 @@
   </style>
 
   <g class="badge-rig">
+    <!-- Top Hanging Strap -->
     <path d="M112,0 L112,46 L128,46 L128,0 Z" fill="url(#strapGrad)"/>
     <line x1="120" y1="0" x2="120" y2="46" stroke="#ffffff" stroke-dasharray="2,2" stroke-width="1.2" opacity="0.6"/>
 
+    <!-- Metallic Clasp -->
     <rect x="110" y="44" width="20" height="12" rx="3" fill="#374151" stroke="#9ca3af" stroke-width="1.5"/>
     <circle cx="120" cy="50" r="3" fill="#00f5d4"/>
     <path d="M115,56 L115,64 L125,64 L125,56" fill="none" stroke="#9ca3af" stroke-width="2"/>
 
+    <!-- ID Card Body -->
     <rect x="25" y="62" width="190" height="268" rx="16" fill="url(#cardBg)" stroke="url(#holoBorder)" stroke-width="2.5" filter="url(#cardGlow)"/>
 
+    <!-- Lanyard Punch Hole -->
     <rect x="100" y="70" width="40" height="7" rx="3.5" fill="#030712" stroke="#4b5563" stroke-width="1"/>
 
+    <!-- Header -->
     <text x="120" y="96" class="text-title" font-size="10" fill="#00f5d4" letter-spacing="2" text-anchor="middle">OFFICIAL ACCESS PASS</text>
     <line x1="45" y1="103" x2="195" y2="103" stroke="#1f2937" stroke-width="1"/>
 
-    <circle cx="120" cy="144" r="32" fill="#1e293b" stroke="#00f5d4" stroke-width="2"/>
-    <circle cx="120" cy="136" r="13" fill="#38bdf8"/>
-    <path d="M99,165 C102,152 110,149 120,149 C130,149 138,152 141,165 Z" fill="#38bdf8"/>
+    <!-- Pure Vector Avatar (No External Links) -->
+    <circle cx="120" cy="144" r="34" fill="#00f5d4"/>
+    <circle cx="120" cy="144" r="32" fill="#1e293b"/>
+    <!-- Head & Shoulders Silhouette -->
+    <circle cx="120" cy="136" r="14" fill="#00f5d4"/>
+    <path d="M98,168 C100,154 110,152 120,152 C130,152 140,154 142,168 Z" fill="#00f5d4"/>
+    <!-- Status Dot -->
     <circle cx="144" cy="122" r="5" fill="#10b981"/>
 
+    <!-- Name & Details -->
     <text x="120" y="195" class="text-title" font-size="14" fill="#ffffff" text-anchor="middle">DIGANTO RABHA</text>
     <text x="120" y="210" class="text-mono" font-size="9" fill="#00f5d4" font-weight="bold" letter-spacing="1" text-anchor="middle">AI CREATOR &amp; BUILDER</text>
     <text x="120" y="224" class="text-mono" font-size="8" fill="#9ca3af" text-anchor="middle">ID NO: #9082-DGF</text>
 
+    <!-- Golden Microchip -->
     <rect x="44" y="235" width="26" height="19" rx="3" fill="#f59e0b" stroke="#d97706" stroke-width="1"/>
     <line x1="44" y1="244" x2="70" y2="244" stroke="#78350f" stroke-width="1"/>
     <line x1="57" y1="235" x2="57" y2="254" stroke="#78350f" stroke-width="1"/>
 
+    <!-- Barcode -->
     <g transform="translate(80, 235)" fill="#00f5d4">
       <rect x="0" y="0" width="2" height="19"/>
       <rect x="4" y="0" width="3" height="19"/>
@@ -85,6 +100,7 @@
       <rect x="70" y="0" width="2" height="19"/>
     </g>
 
+    <!-- Status Tag -->
     <rect x="42" y="268" width="156" height="20" rx="10" fill="#00f5d4" fill-opacity="0.12" stroke="#00f5d4" stroke-width="1"/>
     <text x="120" y="282" class="text-title" font-size="8.5" fill="#00f5d4" letter-spacing="1" text-anchor="middle">VERIFIED EXPERIMENTER</text>
   </g>
